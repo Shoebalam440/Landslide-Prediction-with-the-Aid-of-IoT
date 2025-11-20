@@ -58,5 +58,6 @@ The app loads `wsn_landslide_data.csv`, fits the model, and opens a browser wind
 
 ## License
 
-MIT (adjust if your organization requires otherwise).
+MIT Certified
+
 
